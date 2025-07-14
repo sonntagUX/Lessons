@@ -5,5 +5,5 @@ names = ["Jim", "Jim", "Joe", "Jack", "Jack", "Jack"]
 names.sort()
 st.write(names)
 
-names.sort()
+lucky_numbers.sort()
 st.write(lucky_numbers)
